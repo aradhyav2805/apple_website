@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech- React.js, Tailwind CSS, Three.js, and GSAP.
+Developed a high-fidelity Apple iPhone 15 Pro website clone using React.js, Tailwind CSS, Three.js, and GSAP, ensuring a seamless and immersive user experience. Implemented 3D model rendering with React Three Fiber to showcase the device in multiple colors and sizes. Integrated GSAP-powered smooth animations and a custom video carousel, enhancing interactivity. Built with Vite for optimized performance and ensured a fully responsive design, providing a consistent experience across all devices.
